@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{AA055B46-BDBC-4986-9AF3-299AAB3CFFC2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_21" />
+  <MonoDevelop.Ide.ItemProperties.TestEntry.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BAA37B8C-2AF8-4135-BFA4-338DE175852B" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestEntry.Android PreferredExecutionTarget="Android.pixel_5_-_api_21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestEntry/TestEntry/MainPage.xaml">
+    <Files>
+      <File FileName="TestEntry/TestEntry/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TestEntry/TestEntry/MainPage.xaml" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestEntry" expanded="True">
+            <Node name="TestEntry.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+</Properties>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2tYiZqyRf7h/Y25odeqG7nbkbItuYv32jHlFWSXL02VKfv+9Gsu3ZsgkP1EXv7yl3h2NbOm4MJfBafz6jxkQOQ==",
+  "success": true,
+  "projectFilePath": "/Users/abarajas/GIT/iOSXamarinFormsEntryBroken/TestEntry/TestEntry/TestEntry/TestEntry.csproj",
+  "expectedPackageFiles": [
+    "/Users/abarajas/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/abarajas/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/abarajas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/abarajas/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/abarajas/.nuget/packages/xamarin.forms/5.0.0.2515/xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}

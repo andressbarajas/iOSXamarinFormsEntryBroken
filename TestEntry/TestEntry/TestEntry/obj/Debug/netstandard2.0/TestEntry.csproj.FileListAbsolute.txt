@@ -1,0 +1,14 @@
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/bin/Debug/netstandard2.0/TestEntry.deps.json
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/bin/Debug/netstandard2.0/TestEntry.dll
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/bin/Debug/netstandard2.0/ref/TestEntry.dll
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/bin/Debug/netstandard2.0/TestEntry.pdb
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.AssemblyInfoInputs.cache
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.AssemblyInfo.cs
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.csproj.CoreCompileInputs.cache
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.dll
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/ref/TestEntry.dll
+/Users/abarajas/Desktop/TestEntry/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.pdb
